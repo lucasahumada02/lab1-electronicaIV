@@ -4,3 +4,4 @@ tercera linea de texto
 cuarta linea de texto
 quinta linea de texto
 Línea agregada en rama3
+Conflicto desde rama6
